@@ -1,0 +1,21 @@
+History of linux  
+
+
+
+    1  cd e:/
+    2  ls
+    3  mkdir BrickBreaker
+    4  cd BrickBreaker
+    5  git clone https://github.com/CraigMcC97/BrickBreaker.git
+    6  ls
+    7  cd
+    8  cd e:/BrickBreaker
+    9  ls
+    10 cd BrickBreaker
+    11  git status
+    12  git add .
+    13  git status
+    14  git commit -m "First comit to git"
+    15  git status
+    16  git push origin master
+    17  history
